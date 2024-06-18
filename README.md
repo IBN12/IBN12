@@ -22,3 +22,13 @@
 
 ### Standard Projects:
 [Weather App](https://ibn12.github.io/odin-weather-app-V2/)
+
+[Battleship](https://ibn12.github.io/odin-battleship/)
+
+[Tic-Tac-Toe](https://ibn12.github.io/odin-tic-tac-toe/)
+
+[Book Library](https://ibn12.github.io/odin-library/)
+
+[Todo List](https://ibn12.github.io/odin-todo-list/)
+
+[Restaurant](https://ibn12.github.io/odin-restaurant-page/)
